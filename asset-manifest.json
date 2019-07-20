@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mason/static/css/main.0289665a.chunk.css",
-    "main.js": "/mason/static/js/main.a86affc7.chunk.js",
-    "main.js.map": "/mason/static/js/main.a86affc7.chunk.js.map",
+    "main.css": "/mason/static/css/main.fa4eb2d4.chunk.css",
+    "main.js": "/mason/static/js/main.94779b49.chunk.js",
+    "main.js.map": "/mason/static/js/main.94779b49.chunk.js.map",
     "runtime~main.js": "/mason/static/js/runtime~main.fe710cf6.js",
     "runtime~main.js.map": "/mason/static/js/runtime~main.fe710cf6.js.map",
     "static/js/2.ff82d4c3.chunk.js": "/mason/static/js/2.ff82d4c3.chunk.js",
     "static/js/2.ff82d4c3.chunk.js.map": "/mason/static/js/2.ff82d4c3.chunk.js.map",
     "index.html": "/mason/index.html",
-    "precache-manifest.fb576701754d346e2248548fd0cdc61e.js": "/mason/precache-manifest.fb576701754d346e2248548fd0cdc61e.js",
+    "precache-manifest.980e83de966e8cf3ff49a623887f1810.js": "/mason/precache-manifest.980e83de966e8cf3ff49a623887f1810.js",
     "service-worker.js": "/mason/service-worker.js",
-    "static/css/main.0289665a.chunk.css.map": "/mason/static/css/main.0289665a.chunk.css.map"
+    "static/css/main.fa4eb2d4.chunk.css.map": "/mason/static/css/main.fa4eb2d4.chunk.css.map"
   }
 }
