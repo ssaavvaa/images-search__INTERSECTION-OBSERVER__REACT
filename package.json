@@ -9,7 +9,7 @@
     "react-infinite-scroller": "^1.2.4",
     "react-intersection-observer": "^8.24.1",
     "react-masonry-component": "^6.2.1",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-throttle": "^0.3.0"
   },
   "scripts": {
